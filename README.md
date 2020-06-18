@@ -1,27 +1,6 @@
 # WF_CAC_2018
 Repository of work for the Wells Fargo Campus Analytics Challenge 2018, won and presented at the 2019 Wells Fargo Analytics Summit
 
-## Additional information
-Deliverables 1 & 2 are presented in "KarlR_WellsFargo-CampusAnalyticsChallenge"
+The Mutual Nondisclosure Agreement allows for my work to be made public, one year after it was signed. For the 2018 Challenge this is on or after November 15, 2019.
 
-Programs
-ml_predict.py= machine learning implementation
-
-Roush_main.py= main python program
-
-testing.py= where I was testing sub programs while working
-
-Data
-ML_output.csv= output of ML algorithm when applied to data
-
-ML_raw_data.csv= raw data that is fed to ML algorithm
-
-output.csv= output data from initial model
-
-raw_data.csv= activities of individuals
-
-weights.csv= specific CFP weighting by activity
-
-Data+campus_challenge_FINAL.xlsx= raw data provided by Wells Fargo (split into raw_data.csv and weights.csv)
-
-insights_graphs.xlsx= where post testing analysis was carried out
+## Additional information located in *0000_README.txt*
