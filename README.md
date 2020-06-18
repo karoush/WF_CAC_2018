@@ -3,4 +3,5 @@ Repository of work for the Wells Fargo Campus Analytics Challenge 2018, won and 
 
 The *Mutual Nondisclosure Agreement, Section 4* allows for my work to be made public, one year after it was signed. For the 2018 Challenge this is on or after November 15, 2019.
 
-## Additional information located in *0000_README.txt*
+## Read the report *[KarlR_WellsFargo-CampusAnalyticsChallenge_Report.pdf]()*
+### Additional information located in *0000_README.txt*
