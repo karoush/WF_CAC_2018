@@ -6,4 +6,4 @@ The *Mutual Nondisclosure Agreement, Section 4* allows for my work to be made pu
 ## Read the report below
 *[KarlR_WellsFargo-CampusAnalyticsChallenge_Report.pdf](https://github.com/karoush/WF_CAC_2018/blob/master/REPORT_KarlR_WellsFargo-CampusAnalyticsChallenge.pdf)*
 
-### Additional information located in *0000_README.txt*
+Additional information located in *0000_README.txt*
